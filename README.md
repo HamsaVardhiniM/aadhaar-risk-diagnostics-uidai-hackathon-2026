@@ -115,10 +115,8 @@ Updates-risk&trend-analysis/
 ├── intermediate/
 │ ├── statewise_demo_updates_monthly_aggregated.csv
 │ ├── statewise_bio_updates_monthly_aggregated.csv
-│ ├── cohort_18_plus_demo_updates_aggregated.csv
-│ ├── cohort_18_plus_bio_updates_aggregated.csv
-│ ├── cohort_5_17_demo_updates_aggregated.csv
 │ └── cohort_5_17_bio_updates_aggregated.csv
+│ 
 │
 ├── notebooks/
 │ ├── 01_updates_aggregation.ipynb
