@@ -168,6 +168,21 @@ PAN_Aadhar_Linkage_Risk-analysis/
 ```
 ---
 
+## Interactive Dashboard
+
+An interactive policy dashboard consolidating insights from all three problem statements has been published on **Tableau Public**.
+
+The dashboard presents:
+- Aadhaar enrolment inclusion risk
+- Biometric and demographic update volatility
+- Mandatory biometric update (5–17) intensity
+- PAN–Aadhaar Linkage Risk Index (PALRI)
+
+🔗 **Dashboard Link:** [ https://public.tableau.com/shared/DMDGJWG9X?:display_count=n&:origin=viz_share_link]
+
+---
+
+
 ##  Reproducibility Notes
 
 - All analyses are fully reproducible using the provided Jupyter notebooks.
