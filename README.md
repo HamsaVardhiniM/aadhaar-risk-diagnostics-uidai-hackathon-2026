@@ -178,7 +178,7 @@ The dashboard presents:
 - Mandatory biometric update (5–17) intensity
 - PAN–Aadhaar Linkage Risk Index (PALRI)
 
-🔗 **Dashboard Link:** [ https://public.tableau.com/shared/DMDGJWG9X?:display_count=n&:origin=viz_share_link]
+🔗 **Dashboard Link:** (https://public.tableau.com/shared/3QBS5W3Y9?:display_count=n&:origin=viz_share_link)
 
 ---
 
